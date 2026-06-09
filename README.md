@@ -2,7 +2,7 @@
 
 A simple Streamlit app template for you to modify!
 
-[![Open in Streamlit](https://expert-acorn-979r4xw6j7vr29p7w-8501.app.github.dev/)]
+[Demo link](https://expert-acorn-979r4xw6j7vr29p7w-8501.app.github.dev/)
 
 ### How to run it on your own machine
 
